@@ -1,2 +1,2 @@
 # LearningKube
-Tinkering with kubernetes. 
+Attempting to understand the working & power of kubernetes. Will make detailed notes later. 
